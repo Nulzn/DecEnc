@@ -1,0 +1,14 @@
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\DecEnc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\DecEnc.AssemblyInfoInputs.cache
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\DecEnc.AssemblyInfo.cs
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\DecEnc.csproj.CoreCompileInputs.cache
+C:\Users\nilsr\Downloads\DecEnc\bin\Debug\net8.0\DecEnc.exe
+C:\Users\nilsr\Downloads\DecEnc\bin\Debug\net8.0\DecEnc.deps.json
+C:\Users\nilsr\Downloads\DecEnc\bin\Debug\net8.0\DecEnc.runtimeconfig.json
+C:\Users\nilsr\Downloads\DecEnc\bin\Debug\net8.0\DecEnc.dll
+C:\Users\nilsr\Downloads\DecEnc\bin\Debug\net8.0\DecEnc.pdb
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\DecEnc.dll
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\refint\DecEnc.dll
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\DecEnc.pdb
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\DecEnc.genruntimeconfig.cache
+C:\Users\nilsr\Downloads\DecEnc\obj\Debug\net8.0\ref\DecEnc.dll
